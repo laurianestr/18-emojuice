@@ -95,3 +95,17 @@ h2, .title h1, p {
   margin-right: 70px;
   margin-top: 20px;
 }
+
+.fruit-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 70px;
+  margin-left: 70px;
+  margin-top: 35px;
+  margin-bottom: 100px;
+}
+
+.fruit-container img {
+  width: 30px;
+}
