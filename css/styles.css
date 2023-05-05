@@ -108,6 +108,10 @@ h2, .title h1, p {
   margin-bottom: 100px;
 }
 
+footer .fruit-container {
+  margin-bottom: 20px;
+}
+
 .fruit-container img {
   width: 30px;
 }
